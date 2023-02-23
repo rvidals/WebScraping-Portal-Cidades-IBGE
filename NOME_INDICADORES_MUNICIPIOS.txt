@@ -1,0 +1,41 @@
+nomeIndicador;id
+Prefeito;29170
+Código do Município;29169
+População estimada;29171
+População no último censo;25207
+Densidade demográfica;29168
+Salário médio mensal dos trabalhadores formais;29765
+Pessoal ocupado;29763
+População ocupada;60036
+Percentual da população com rendimento nominal mensal per capita de até 1/2 salário mínimo;60037
+Taxa de escolarização de 6 a 14 anos de idade;60045
+IDEB – Anos iniciais do ensino fundamental (Rede pública);78187
+IDEB – Anos finais do ensino fundamental (Rede pública);78192
+Matrículas no ensino fundamental;5908
+Matrículas no ensino médio;5913
+Docentes no ensino fundamental;5929
+Docentes no ensino médio;5934
+Número de estabelecimentos de ensino fundamental;5950
+Número de estabelecimentos de ensino médio;5955
+PIB per capita;47001
+Percentual das receitas oriundas de fontes externas;60048
+Índice de Desenvolvimento Humano Municipal (IDHM);30255
+Total de receitas realizadas;28141
+Total de despesas empenhadas;29749
+Mortalidade Infantil;30279
+Internações por diarreia;60032
+Estabelecimentos de Saúde SUS;28242
+Área urbanizada;95335
+Esgotamento sanitário adequado;60030
+Arborização de vias públicas;60029
+Urbanização de vias públicas;60031
+População exposta ao risco;93371
+Bioma;77861
+Sistema Costeiro-Marinho;82270
+Área da unidade territorial;29167
+Hierarquia urbana;87529
+Região de Influência;87530
+Região intermediária;91245
+Região imediata;91247
+Mesorregião;91249
+Microrregião;91251

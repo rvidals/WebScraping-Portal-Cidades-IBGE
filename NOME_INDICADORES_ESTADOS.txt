@@ -1,0 +1,29 @@
+nomeIndicador;id
+População estimada;48985
+População no último censo;25207
+Densidade demográfica;48982
+Total de veículos;28120
+IDEB – Anos iniciais do ensino fundamental (Rede pública);78187
+IDEB – Anos finais do ensino fundamental (Rede pública);78192
+Matrículas no ensino fundamental;5908
+Matrículas no ensino médio;5913
+Docentes no ensino fundamental;5929
+Docentes no ensino médio;5934
+Número de estabelecimentos de ensino fundamental;5950
+Número de estabelecimentos de ensino médio;5955
+Rendimento nominal mensal domiciliar per capita;48986
+Pessoas de 16 anos ou mais ocupadas na semana de referência;62585
+Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência;62590
+Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais;95345
+Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais;95379
+Pessoal ocupado na Administração pública, defesa e seguridade social;59935
+Índice de Desenvolvimento Humano (IDH);30255
+Receitas orçamentárias realizadas;28141
+Despesas orçamentárias empenhadas;29749
+Número de agências;21910
+Depósitos a prazo;21906
+Depósitos à vista;21907
+Área da unidade territorial;48980
+Área urbanizada;95338
+Governador;62876
+Capital;48981
