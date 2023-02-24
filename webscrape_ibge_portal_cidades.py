@@ -33,7 +33,7 @@ def get_url_estado():
 
 def get_url_municipio():
 
-    CODIGOS_MN = open("codigo_mun.txt", "r", encoding="utf8")
+    CODIGOS_MN = open("codigo_mun - teste.txt", "r", encoding="utf8")
 
     urls_api = []
     urls_api2 = []
@@ -335,5 +335,3 @@ if __name__ == '__main__':
     df_mun_org = organizar_colunas_municipio(df_mun)
 
     save_to_excel(df_uf_org, df_mun_org)
-
-# %%
