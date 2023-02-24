@@ -6,9 +6,12 @@ Dando continuidade aos meus estudo de Web Scraping, optei por capturar dados da 
 
 Diferente do painel [Cidades e Estados](https://www.ibge.gov.br/cidades-e-estados/df/brasilia.html) - no meu git há um [script]() que faz paspagem dos dados contidos nele, vale a pena conferir -, o  portal [IBGE-Cidades](https://cidades.ibge.gov.br/), possui uma diversidade superior de indicadores para todos os Estados e Municípios do Brasil, o que de falto torna-o uma fonte oficial e fundamental de dados para pesquisa.
 
-São cerca de 49 indicadores presentes no nível municipal: 
 
-1.  Estado
+<details>
+  <summary>
+    São cerca de 49 indicadores presentes no nível municipal: 
+  </summary>
+  1.  Estado
 2.  Sigla do Estado
 3.  Código do Estado
 4.  Município
@@ -57,6 +60,47 @@ São cerca de 49 indicadores presentes no nível municipal:
 47.  Histórico
 48.  Data de Extração
 49.  Hora de Extração
+</details>
+
+
+<details>
+  <summary>
+    São cerca de 30 indicadores presentes no nível Estadual: 
+  </summary>
+1.  Código do Estado
+2.  Governador - 2023
+3.  Gentílico
+4.  Capital - 2010
+5.  População estimada - 2021
+6.  População no último censo - 2010
+7.  Área urbanizada - 2019
+8.  Densidade demográfica - 2010
+9.  Área da unidade territorial - 2021
+10.  Matrículas no ensino médio - 2021
+11.  Docentes no ensino fundamental - 2021
+12.  Docentes no ensino médio - 2021
+13.  IDEB – Anos iniciais do ensino fundamental (Rede pública) - 2021
+14.  IDEB – Anos finais do ensino fundamental (Rede pública) - 2021
+15.  Número de estabelecimentos de ensino fundamental - 2021
+16.  Número de estabelecimentos de ensino médio - 2021
+17.  Depósitos a prazo - 2021
+18.  Depósitos à vista - 2021
+19.  Número de agências - 2021
+20.  Total de veículos - 2022
+21.  Receitas orçamentárias realizadas - 2017
+22.  Despesas orçamentárias empenhadas - 2017
+23.  Índice de Desenvolvimento Humano (IDH) - 2010
+24.  Pessoal ocupado na Administração pública, defesa e seguridade social - 2020
+25.  Pessoas de 16 anos ou mais ocupadas na semana de referência - 2016
+26.  Proporção de pessoas de 16 anos ou mais em trabalho formal, considerando apenas as ocupadas na semana de referência - 2016
+27.  Proporção de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais - 2022
+28.  Rendimento médio real habitual do trabalho principal das pessoas de 14 anos ou mais de idade, ocupadas na semana de referência em trabalhos formais - 2022
+29.  Data de Extração
+30.  Hora de Extração
+</details>
+
+
+
 
 Um ponto importante é que que além de fazer a raspagem é possível fazer um tratamento básico nos dados, como converter dados do tipo objeto para numérico, utilizando basicamente a biblioteca pandas. Esse tipo de tratamento é importantíssimo, visto que ao salvar esses dados em uma tabela de banco de dados, é importante especificar o tipo de dado e até o seu tamanho, para não prejudicar o desempenho do banco. É claro não é o foco desse código, porém é importante considerar esse ponto.
 
