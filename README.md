@@ -1,6 +1,6 @@
 # WebScraping do Portal Cidades do IBGE
 
-![GitHub](https://img.shields.io/github/license/rvidals/WebScraping-Portal-Cidades-IBGE/)
+![GitHub](https://img.shields.io/github/license/rvidals/WebScraping-Portal-Cidades-IBGE)
 
 Dando continuidade aos meus estudo de Web Scraping, optei por capturar dados da API do portal [Cidades](https://cidades.ibge.gov.br/brasil/df/panorama), me inspirando no script desenvolvido para capturar informações da API do Shoppe e gerando uma planinha com diversas informações dos anúncios presentes na pesquisa. Ou seja, um simples exercício/diversão na programação pode ajudar no desenvolvimento de um script robusto e necessário, sobretudo para atualizar um base de dados que pode ser visitada com frequencia no intuito de subsidiar pesquisas de diferentes contextos. 
 
